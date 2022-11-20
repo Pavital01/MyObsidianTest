@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "bdd1c04e429a9460",
+    "type": "split",
+    "children": [
+      {
+        "id": "80166f29ecfaca12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48d43ad2aa1e260f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b2fa51b8afc9fbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDBC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdfb60cd603e8855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Изучить поглубже.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aaa77b66b79ab31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd4a460ffd84eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0ce9b2ecc3b25a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Запрет преопределения при наследовании - Metanit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ad39a58eb251e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be1c57e03e220e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8d286a6dfff4ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "e52841aff08149f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "M",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196
+  },
+  "right": {
+    "id": "ec9cdb82df989879",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e557a11f08dda5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1ba85e3759d4eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Запрет преопределения при наследовании - Metanit.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b30b2be05cf5435",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Запрет преопределения при наследовании - Metanit.md"
+              }
+            }
+          },
+          {
+            "id": "ada0553d0b394ed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0ce9b2ecc3b25a6",
+  "lastOpenFiles": [
+    "JDBC.md",
+    "Полиморфизм.md",
+    "Пример return массива объектов.md",
+    "Динамическая диспетчеризация методов - Metanit.md",
+    "Запрет преопределения при наследовании - Metanit.md",
+    "Запрет наследования- Metanit.md",
+    "Без названия.md",
+    "JPA.md",
+    "Изучить поглубже.md",
+    "API.md"
+  ]
+}

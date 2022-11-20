@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "bdd1c04e429a9460",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb9c59f0c2297246",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Пример return массива объектов.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ad39a58eb251e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be1c57e03e220e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8d286a6dfff4ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e52841aff08149f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "M",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196
+  },
+  "right": {
+    "id": "ec9cdb82df989879",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e557a11f08dda5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1ba85e3759d4eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Пример return массива объектов.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b30b2be05cf5435",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Пример return массива объектов.md"
+              }
+            }
+          },
+          {
+            "id": "ada0553d0b394ed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb9c59f0c2297246",
+  "lastOpenFiles": [
+    "Пример return массива объектов.md",
+    "JavaRush/Mutable vs Immutable объекты.md",
+    "Projects/Epxperemental/Inheritance/Пример - Metanit -  Наследование_1.md",
+    "Date/2022-07-10.md",
+    "Переопределение методов.md",
+    "Запрет наследования- Metanit.md",
+    "Запрет преопределения при наследовании - Metanit.md",
+    "Динамическая диспетчеризация методов - Metanit.md",
+    "JavaRush/Абстракция - JavaRush.md",
+    "JavaRush/Бесконечность - JavaRush.md"
+  ]
+}
